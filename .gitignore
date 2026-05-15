@@ -16,6 +16,9 @@
 *.jpg
 *.pcd
 *.gif
+*.png
+*.mp4
+phigent_test/*.npy
 
 # exp
 exp

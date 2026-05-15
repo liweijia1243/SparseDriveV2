@@ -1,0 +1,4 @@
+defaults:
+  - scene_filter: debug_mini
+
+data_split: debug_mini
